@@ -1,10 +1,3 @@
-/* *{
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;
-    color: white;
-    font-family: "Baloo Bhai 2", cursive;
-} */
 *::selection{
     background-color: grey;
     color: aquamarine;
